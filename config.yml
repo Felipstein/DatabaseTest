@@ -1,0 +1,7 @@
+# informações do banco de dados.
+host: 'localhost'
+port: 3306
+database: 'mysql'
+user: 'root'
+password: ''
+use-ssl: false

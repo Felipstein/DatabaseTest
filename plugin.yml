@@ -1,0 +1,9 @@
+name: DatabaseTest
+main: br.lois.databasetest.Main
+
+author: Lois
+version: 0.0.1-SNAPSHOT
+
+commands:
+  database:
+    aliases: [db, datab, dbase, data-base, d-b, data-b, d-base, d, b]
